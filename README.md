@@ -47,3 +47,7 @@ The following are the major components and technical aspects put into use in thi
 ### Working :
 - Fix the Jaw in the following way,
  
+![image](https://user-images.githubusercontent.com/69643168/131075620-7b7724be-2625-4d33-81f8-a597a3360f58.png)
+
+- Fix the Eye Holders shown in the following way,
+
