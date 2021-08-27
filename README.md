@@ -91,8 +91,8 @@ The following are the major components and technical aspects put into use in thi
 
 - Connect and place the USB Mircophone at the front part of the face, preferably at the center
 
-- Place the intents.json, trainbot and runbot files in the same directory.
+- Place the intents.json, trainbot, chatgui, classes, words files in the same directory.
 
 - Make changes in the intents.json file as per your requirements of the chatbot, but remember the format of inserting before you do that.
 
-- Now, run the train chatbot code and the runbot code. 
+- Now, run the train chatbot code and the chatgui code. 
